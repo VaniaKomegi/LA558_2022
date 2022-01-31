@@ -3,7 +3,14 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Traveler": "Vania Komegi",
+        "Place": "Honolulu, HI",
+        "Month": "November"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -14,7 +21,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Traveler": "Vania Komegi",
+        "Place": "San Antonio, TX",
+        "Month": "September"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -25,7 +39,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Traveler": "Vania Komegi",
+        "Place": "Salem, MA",
+        "Month": "October"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -36,7 +57,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Traveler": "Vania Komegi",
+        "Place": "Glacier, WA",
+        "Month": "October"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -47,7 +75,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Traveler": "Vania Komegi",
+        "Place": "Tucson, AZ",
+        "Month": "January"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
