@@ -1,12 +1,12 @@
-# LA558_2022
-Course website  
-Vania Komegi  
-Master of Urban Design, Spring 2022  
+# **Hello** 👋🏾  
+My name is Vania Komegi  
+I'm a master's student at Iowa State University  
+**Welcome to my repositories!** 
 
-**Assignments**
-- [Assignment 1](file:///D:/Spring%2022/LA%20558/MyLA558_2022/Web/Assignment%201.html)
-- [Assignment 2](file:///D:/Spring%2022/LA%20558/MyLA558_2022/Web/ex2a.html)
-- [Assignment 3](file:///D:/Spring%2022/LA%20558/MyLA558_2022/Web/assignment%203.html)
-- [Assignment 4](file:///D:/Spring%2022/LA%20558/MyLA558_2022/Web/Assignment4.html)
+## Assignments
+- <a href="https://vaniakomegi.github.io/LA558_2022/Web/Assignment 1.html">Assignment 1</a>
+- <a href="https://vaniakomegi.github.io/LA558_2022/Web/ex2a.html"> Assignment 2</a>
+- <a href="https://vaniakomegi.github.io/LA558_2022/Web/assignment 3.html">Assignment 3</a>
+- <a href="https://vaniakomegi.github.io/LA558_2022/Web/Assignment4.html">Assignment 4</a>
 
-**Final Project**
+## Final Project
