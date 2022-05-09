@@ -14,3 +14,4 @@ I'm a master's student at Iowa State University
 - <a href="https://vaniakomegi.github.io/LA558_2022/Web/Assignment4.html">Assignment 4</a>
 
 ## Final Project
+<a href="https://vaniakomegi.github.io/LA558_2022/Web/ProfitableIndustry.html">Profitable Industry</a>
